@@ -9,6 +9,7 @@
           "path": "/docs/README.md"
         },
         {
+          "heading": true,
           "title": "Installation",
           "routes": [
             {
