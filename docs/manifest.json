@@ -6,7 +6,7 @@
       "routes": [
         {
           "title": "Introduction",
-          "path": "/docs/README.md"
+          "path": "/docs/installation/README.md"
         },
         {
           "title": "Installation",
