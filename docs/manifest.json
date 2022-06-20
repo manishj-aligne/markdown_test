@@ -1,0 +1,22 @@
+{
+  "routes": [
+    {
+      "title": "Axio UI",
+      "routes": [
+        {
+          "title": "Introduction",
+          "path": "/docs/README.md"
+        },
+        {
+          "title": "Installation",
+          "routes": [
+            {
+              "title": "Introduction",
+              "path": "/docs/installation/README.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
