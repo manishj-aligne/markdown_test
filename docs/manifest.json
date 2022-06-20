@@ -1,6 +1,7 @@
 {
   "routes": [
     {
+      "heading": true,
       "title": "Axio UI",
       "routes": [
         {
