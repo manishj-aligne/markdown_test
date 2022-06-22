@@ -12,7 +12,7 @@
           "routes": [
             {
               "title": "Introduction",
-              "path": "/docs/installation/README.md"
+              "path": "/docs/installation/introduction.md"
             },
             {
               "title": "Supported Releases",
@@ -51,7 +51,7 @@
               "routes": [
                 {
                   "title": "Introduction",
-                  "path": "/docs/installation/upgrading/README.md"
+                  "path": "/docs/installation/upgrading/introduction.md"
                 },
                 {
                   "title": "Removing Deprecated API Resources",
