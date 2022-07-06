@@ -17,36 +17,8 @@
             {
               "title": "Supported Releases",
               "path": "/docs/installation/supported-releases.md"
-            },
-            {
-              "title": "Upgrading",
-              "routes": [
-                {
-                  "title": "Introduction",
-                  "path": "/docs/installation/upgrading/introduction.md"
-                },
-                {
-                  "title": "Removing Deprecated API Resources",
-                  "path": "/docs/installation/upgrading/remove-deprecated-apis.md"
-                }
-              ]
             }
-            
           ]
-        },
-        {
-          "title": "Tutorials",
-          "routes": [
-            {
-              "title": "Introduction",
-              "path": "/docs/tutorials/README.md"
-            }
-            
-          ]
-        },
-        {
-          "title": "About Jetstack",
-          "path": "/docs/aboutjetstack.md"
         }
       ]
     }
