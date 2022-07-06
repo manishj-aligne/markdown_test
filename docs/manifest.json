@@ -6,19 +6,6 @@
         {
           "title": "Introduction",
           "path": "/docs/README.md"
-        },
-        {
-          "title": "Installation",
-          "routes": [
-            {
-              "title": "Introduction",
-              "path": "/docs/installation/introduction.md"
-            },
-            {
-              "title": "Supported Releases",
-              "path": "/docs/installation/supported-releases.md"
-            }
-          ]
         }
       ]
     }
